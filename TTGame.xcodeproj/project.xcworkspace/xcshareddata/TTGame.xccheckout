@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>31759CE5-6F45-42E0-86EE-EFB425A47ECB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TTGame</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C0B6789416D5AC8AEA771411330B1E37CC010042</key>
+		<string>http://std.mama.cn/ios-great-team/ttgame.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TTGame.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C0B6789416D5AC8AEA771411330B1E37CC010042</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://std.mama.cn/ios-great-team/ttgame.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C0B6789416D5AC8AEA771411330B1E37CC010042</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C0B6789416D5AC8AEA771411330B1E37CC010042</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ttgame</string>
+		</dict>
+	</array>
+</dict>
+</plist>

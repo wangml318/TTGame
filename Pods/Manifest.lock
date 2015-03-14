@@ -1,0 +1,16 @@
+PODS:
+  - FastAnimationWithPOP (0.0.2):
+    - pop (~> 1.0.5)
+  - pop (1.0.7)
+  - UIImage+BlurredFrame (0.0.4)
+
+DEPENDENCIES:
+  - FastAnimationWithPOP
+  - UIImage+BlurredFrame
+
+SPEC CHECKSUMS:
+  FastAnimationWithPOP: 453cac7e3671d27c57db04abec4f6c08a930f413
+  pop: 2f14a1ea61339767af9e66741b418c831b3844df
+  UIImage+BlurredFrame: 0c38f5760d72125c47d16001a88faaac573bd35d
+
+COCOAPODS: 0.35.0
